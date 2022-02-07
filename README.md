@@ -1,4 +1,4 @@
-# friendslist
+# foodlog
 
 A simple ruby on rails web app that applies basic CRUD(Create Read Update Delete) principles. This web app enables user to list down food and calorie intake every day.
 
